@@ -2,18 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jessica-19.github.io/2024/01/10/20240108/</loc>
+    <loc>https://jessica-19.github.io/2024/01/12/20240112/</loc>
     
-    <lastmod>2024-01-10</lastmod>
+    <lastmod>2024-01-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jessica-19.github.io/2024/01/10/hello-world/</loc>
+    <loc>https://jessica-19.github.io/2024/01/12/20240111/</loc>
     
-    <lastmod>2024-01-10</lastmod>
+    <lastmod>2024-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/2024/01/10/20240108/</loc>
+    
+    <lastmod>2024-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/guestbook/index.html</loc>
+    
+    <lastmod>2024-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-01-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,12 +58,68 @@
 
   <url>
     <loc>https://jessica-19.github.io/</loc>
-    <lastmod>2024-01-10</lastmod>
+    <lastmod>2024-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://jessica-19.github.io/tags/Hexo/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/tags/%E7%83%AD%E7%82%B9/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/tags/GPT/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/tags/AIGC/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/tags/markdown/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://jessica-19.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jessica-19.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
